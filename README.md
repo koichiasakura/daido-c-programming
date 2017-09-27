@@ -23,7 +23,7 @@
 いわゆる GUI によるプログラムのコンパイル，実行方法の解説です．
 
 - [1. プロジェクトの作成](CreateProject.md)
-- [2. ファイルの作成](WriteProgram)
+- [2. ファイルの作成](WriteProgram.md)
 - [3. プログラムの実行](RunProgramOnVS)
 - [4. 既存のプロジェクトを選択](SelectProject)
 
