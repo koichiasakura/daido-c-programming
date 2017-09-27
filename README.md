@@ -14,7 +14,7 @@
 コマンドプロンプトを用いた，いわゆる CUI によるプログラムのコンパイル，実行方法の解説です．
 
 - [1. 開発者コマンドプロンプトを開く](LaunchPrompt.md)
-- [2. プログラムをコンパイル・実行する](RunProgramOnPrompt)
+- [2. プログラムをコンパイル・実行する](RunProgramOnPrompt.md)
 
 ## Visual Studio でのコンパイル・実行方法
 
