@@ -24,7 +24,7 @@
 
 - [1. プロジェクトの作成](CreateProject.md)
 - [2. ファイルの作成](WriteProgram.md)
-- [3. プログラムの実行](RunProgramOnVS)
+- [3. プログラムの実行](RunProgramOnVS.md)
 - [4. 既存のプロジェクトを選択](SelectProject)
 
 ## 自宅での自習環境の構築方法
