@@ -7,7 +7,7 @@
 授業の演習では主に Visual Studio を使用します．
 授業開始前にログインして，VIsual Studio を起動しておくとよいでしょう．
 
-- [起動方法](LaunchVisualStudio)
+- [起動方法](LaunchVisualStudio.md)
 
 ## コマンドプロンプトでのコンパイル・実行方法
 
