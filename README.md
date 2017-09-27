@@ -36,4 +36,4 @@
 時間に余裕を持って作業しましょう．
 
 - [1. ダウンロードする](DownloadVSC.md)
-- [2. インストールする](InstallVSC)
+- [2. インストールする](InstallVSC.md)
