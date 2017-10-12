@@ -18,8 +18,7 @@
 
 ## Visual Studio でのコンパイル・実行方法
 
-演習室での Visual Studio Professional や，
-自宅学習での Visual Studio Community を用いた，
+演習室での Visual Studio Professional （Visual Studio 2013）を用いた，
 いわゆる GUI によるプログラムのコンパイル，実行方法の解説です．
 
 - [1. プロジェクトの作成](CreateProject.md)
@@ -37,3 +36,4 @@
 
 - [1. ダウンロードする](DownloadVSC.md)
 - [2. インストールする](InstallVSC.md)
+- [3. プロジェクトの作成方法](CreateProject2017.md)
