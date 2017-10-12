@@ -1,6 +1,6 @@
 # プロジェクトの作成方法の違い
 
-現在（2017年10月時点）でインストールできる Visual Studio Community (Visual Studio 2017) では，
+現時点（2017年10月）でインストールできる Visual Studio Community (Visual Studio 2017) では，
 プロジェクトの作成方法が演習室とは異なっています．
 
 メニューの「新規」から「新しいプロジェクト」を選択します．
