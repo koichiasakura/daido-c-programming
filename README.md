@@ -21,7 +21,7 @@
 B0302, B0303, B0304, B0305演習室での Visual Studio Professional （Visual Studio 2013）を用いた，
 いわゆる GUI によるプログラムのコンパイル，実行方法の解説です．
 
-- [1. プロジェクトの作成](CreateProject.md)
+- [1. プロジェクトの作成](docs/CreateProject.md)
 - [2. ファイルの作成](WriteProgram.md)
 - [3. プログラムの実行](RunProgramOnVS.md)
 - [4. 既存のプロジェクトを選択](SelectProject.md)
