@@ -3,20 +3,20 @@
 ダウンロードされたインストーラを実行します．
 多くの場合，「ダウンロード」フォルダに格納されているはずです．
 
-![vscd3](img/vscd3.png)
+![vscd3](/img/vscd3.png)
 
 インストーラが立ち上がるまでしばらく待ちましょう．
 
-![install1](img/install1.png)
+![install1](/img/install1.png)
 
 「C++ によるデスクトップ開発」を選択して下さい．
 これが選択されていないと C が使えません．
 
-![install2](img/install2.png)
+![install2](/img/install2.png)
 
 「インストール」を押し，しばらく（かなり）待ちましょう．
 必要なファイルをダウンロードしながらインストールが進んでいきます．
 
-![install3](img/install3.png)
+![install3](/img/install3.png)
 
 インストール後，再起動等が必要であれば指示に従いましょう．

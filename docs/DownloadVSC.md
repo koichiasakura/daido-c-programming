@@ -8,22 +8,22 @@ Visual Studio Community は無償でダウンロードできる開発ツール�
 
 google などで「visual studio」と検索して下さい．
 
-![google での検索](img/vshp.png)
+![google での検索](/img/vshp.png)
 
 「Microsoft Visual Studio ホームページ」が見つかるはずです．
 このページに移動して下さい．
 
 そのページのメニューから「製品情報→製品情報→Visual Studio Community」を選択します．
 
-![VSCページ](img/vsc.png)
+![VSCページ](/img/vsc.png)
 
 ページの下の方にダウンロードするためのリンクがあるのでクリックします．
 
-![vscd](img/vscd.png)
+![vscd](/img/vscd.png)
 
 ページの左側にある「Community を無料ダウンロード」をクリックすると，ダンロードされます．
 
-![vscd2](img/vscd2.png)
+![vscd2](/img/vscd2.png)
 
 実際には，インストールの途中にも必要なファイルをダウンロードしますので，
 ダウンロードが完了したわけではありません．

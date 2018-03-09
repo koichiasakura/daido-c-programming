@@ -3,16 +3,16 @@
 スタートメニューから「Visual Studio ツール」を選択します．
 Visual Studio 2013 の下にあるので，見つけやすいと思います．
 
-![menu02](img/menu02.png)
+![menu02](/img/menu02.png)
 
 フォルダが開きます．
 この中から「開発者コマンドプロンプト for VS2013」をダブルクリックします．
 
-![tool01](img/tool01.png)
+![tool01](/img/tool01.png)
 
 コマンドプロンプトが開きます．
 
-![tool02](img/tool02.png)
+![tool02](/img/tool02.png)
 
 ## 注意
 

@@ -8,7 +8,7 @@ Visual Studio Community, Visual Studio 2017 では，
 中央で「Windows デスクトップウィザード」を選択します．
 「ソリューションのディレクトリを作成」はチェックを外しておきましょう．
 
-![project1](img/proj1-2017.png)
+![project1](/img/proj1-2017.png)
 
 2013 のように「Windows コンソールアプリケーション」を選択するとハマりますので気をつけましょう．
 
@@ -22,6 +22,6 @@ Visual Studio Community, Visual Studio 2017 では，
 
 と設定します．
 
-![project1](img/proj2-2017.png)
+![project1](/img/proj2-2017.png)
 
 後の操作は同様です．
