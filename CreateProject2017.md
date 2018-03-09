@@ -24,4 +24,4 @@ Visual Studio Community, Visual Studio 2017 では，
 
 ![project1](img/proj2-2017.png)
 
-あとは操作は同様です．
+後の操作は同様です．
