@@ -13,8 +13,8 @@
 
 コマンドプロンプトを用いた，いわゆる CUI によるプログラムのコンパイル，実行方法の解説です．
 
-- [1. 開発者コマンドプロンプトを開く](LaunchPrompt.md)
-- [2. プログラムをコンパイル・実行する](RunProgramOnPrompt.md)
+- [1. 開発者コマンドプロンプトを開く](docs/LaunchPrompt.md)
+- [2. プログラムをコンパイル・実行する](docs/RunProgramOnPrompt.md)
 
 ## Visual Studio 2013 でのコンパイル・実行方法
 
@@ -22,15 +22,15 @@ B0302, B0303, B0304, B0305演習室での Visual Studio Professional （Visual S
 いわゆる GUI によるプログラムのコンパイル，実行方法の解説です．
 
 - [1. プロジェクトの作成](docs/CreateProject.md)
-- [2. ファイルの作成](WriteProgram.md)
-- [3. プログラムの実行](RunProgramOnVS.md)
-- [4. 既存のプロジェクトを選択](SelectProject.md)
+- [2. ファイルの作成](docs/WriteProgram.md)
+- [3. プログラムの実行](docs/RunProgramOnVS.md)
+- [4. 既存のプロジェクトを選択](docs/SelectProject.md)
 
 ## Visual Studio 2017 でのコンパイル・実行方法
 
 Visual Studio 2017 ではプロジェクトの作成方法が 2013 と異なります．
 
-- [1. プロジェクトの作成](CreateProject2017.md)
+- [1. プロジェクトの作成](docs/CreateProject2017.md)
 
 ## 自宅での自習環境の構築方法
 
@@ -40,6 +40,6 @@ Visual Studio 2017 ではプロジェクトの作成方法が 2013 と異なり�
 場合によっては 3〜4時間かかることもあります．
 時間に余裕を持って作業しましょう．
 
-- [1. ダウンロードする](DownloadVSC.md)
-- [2. インストールする](InstallVSC.md)
-- [3. プロジェクトの作成方法](CreateProject2017.md)
+- [1. ダウンロードする](docs/DownloadVSC.md)
+- [2. インストールする](docs/InstallVSC.md)
+- [3. プロジェクトの作成方法](docs/CreateProject2017.md)
