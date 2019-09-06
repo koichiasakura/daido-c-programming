@@ -28,7 +28,7 @@ B0302, B0303, B0304, B0305演習室での Visual Studio Professional （Visual S
 
 ## Visual Studio 2017 でのコンパイル・実行方法
 
-Visual Studio 2017 ではプロジェクトの作成方法が 2013 と異なります．
+B0306, B0307, B0308 演習室の Visual Studio 2017 ではプロジェクトの作成方法が 2013 と異なります．
 
 - [1. プロジェクトの作成](docs/CreateProject2017.md)
 
