@@ -34,12 +34,12 @@ Visual Studio 2017 ではプロジェクトの作成方法が 2013 と異なり�
 
 ## 自宅での自習環境の構築方法
 
-自宅の PC に Visual Studio Community をインストールして，
+自宅の PC に Visual Studio 2019 Community をインストールして，
 自習ができる環境を構築する方法について説明します．
 インストールにはかなりの時間がかかります．
 場合によっては 3〜4時間かかることもあります．
 時間に余裕を持って作業しましょう．
 
-- [1. ダウンロードする](docs/DownloadVSC.md)
-- [2. インストールする](docs/InstallVSC.md)
-- [3. プロジェクトの作成方法](docs/CreateProject2017.md)
+- [1. ダウンロードする](docs/DownloadVSC2019.md)
+- [2. インストールする](docs/InstallVSC2019.md)
+- [3. プロジェクトの作成方法](docs/CreateProject2019.md)
