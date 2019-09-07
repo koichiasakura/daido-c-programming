@@ -1,7 +1,4 @@
-# プロジェクトを作成する (Visual Studio 2017)
-
-Visual Studio Community, Visual Studio 2017 では，
-プロジェクトの作成方法が 2013 とは異なっていますので注意してください．
+# Visual Studio 2017 でプロジェクトを作成する
 
 メニューの「新規」から「新しいプロジェクト」を選択します．
 ダイアログが表示されるので，左側から「Visual C++」の中の「Windows デスクトップ」を選択し，
@@ -10,7 +7,7 @@ Visual Studio Community, Visual Studio 2017 では，
 
 ![project1](/img/proj1-2017.png)
 
-2013 のように「Windows コンソールアプリケーション」を選択するとハマりますので気をつけましょう．
+Visual Studio 2013 のように「Windows コンソールアプリケーション」を選択するとハマりますので気をつけましょう．
 
 ウィザードより，
 
@@ -23,5 +20,3 @@ Visual Studio Community, Visual Studio 2017 では，
 と設定します．
 
 ![project1](/img/proj2-2017.png)
-
-後の操作は同様です．
