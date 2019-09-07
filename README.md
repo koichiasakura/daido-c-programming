@@ -36,7 +36,7 @@ Visual Studio のバージョンによって，プロフェクトの作成方法
 
 ### ファイルを作成し，プログラムを実行する
 
-プロジェクトの作成以外の方法はどの Visual Studio でも共有です．
+プロジェクトの作成以外の方法はどの Visual Studio でも共通です．
 
 - [ファイルを作成する](docs/WriteProgram.md)
 - [プログラムを実行する](docs/RunProgramOnVS.md)
