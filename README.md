@@ -32,8 +32,12 @@ Visual Studio のバージョンによって、プロフェクトの作成方法
 自分が使用している Visual Studio のバージョンを確認して、正しくプロジェクトを作成してください。
 
 - [Visual Studio 2013 でプロジェクトを作成する](docs/CreateProject2013.md)
-- [Visual Studio 2017 でプロジェクトを作成する](docs/CreateProject2017.md): B0306, B0307, B0308演習室が対象です。
-- [Visual Studio 2019 でプロジェクトを作成する](docs/CreateProject2019.md): B0302, B0303, B0304, B0305演習室が対象です。
+- [Visual Studio 2017 でプロジェクトを作成する](docs/CreateProject2017.md)
+- [Visual Studio 2019 でプロジェクトを作成する](docs/CreateProject2019.md)
+
+それぞれの演習室のバージョンについては、以下のページを確認してください。
+
+- [各演習室のバージョン（2021年9月16日現在）](docs/VersionTable.md)
 
 ### ファイルを作成してプログラムを実行する
 
